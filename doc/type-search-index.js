@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"baza","l":"BazaPodataka"},{"p":"interfejs","l":"GameInterface"},{"p":"interfejs","l":"IgricaGUI"},{"p":"app","l":"KonzolnaIgrica"},{"p":"logika","l":"Logika2048"},{"p":"app","l":"Main"},{"p":"interfejs","l":"Prijava"},{"p":"interfejs","l":"PrikaziHighscore"}];updateSearchResults();
